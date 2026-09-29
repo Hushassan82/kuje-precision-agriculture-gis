@@ -24,12 +24,14 @@ The study area is Kuje Area Council, located in the Federal Capital Territory, A
 
 ## 5. Datasets and Sources
 
-| Dataset                             | Purpose                                    | Source                                            |
-| ----------------------------------- | ------------------------------------------ | ------------------------------------------------- |
-| Kuje administrative boundary        | Delineation of the study area              | https://www.geoboundaries.org/                    |
-| Sentinel-2 satellite imagery        | Vegetation assessment and land observation | https://dataspace.copernicus.eu/                  |
-| OpenStreetMap roads and settlements | Accessibility and settlement mapping       | https://download.geofabrik.de/africa/nigeria.html |
-| WorldPop population data            | Population distribution analysis           | https://www.worldpop.org/                         |
+| Dataset                                  | Purpose                                                                         | Source                                    |
+| ---------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------- |
+| GRID3 Nigeria Operational LGA Boundaries | Defines the Kuje Area Council study area                                        | https://grid3.org/geospatial-data-nigeria |
+| GRID3 Nigeria Population                 | Provides gridded population estimates for spatial population analysis           | https://grid3.org/geospatial-data-nigeria |
+| GRID3 Nigeria Settlement Extents         | Identifies settlements within and around Kuje Area Council                      | https://grid3.org/geospatial-data-nigeria |
+| GRID3 Nigeria Roads                      | Provides road and transportation network information for accessibility analysis | https://grid3.org/geospatial-data-nigeria |
+| Sentinel-2 satellite imagery             | Provides multispectral satellite data for vegetation and agricultural analysis  | https://dataspace.copernicus.eu/          |
+
 
 All datasets will be checked for spatial coverage, date, coordinate reference system, resolution and licensing before analysis.
 
